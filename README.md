@@ -9,6 +9,35 @@
 <p>
 Haye-Aduunka student projects collected and presented for all to admire 😊
 
+## 🛠️ Development Workflow
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/ibrahim681/Haye-Aduunka.git
+```
+
+2. Change the working directory
+
+```bash
+cd Haye-Aduunka
+```
+
+3. Create a feature branch
+NOTE: pushing to main directly, will result in the project deplying to server
+
+```bash
+git checkout -b new-feature
+```
+follow this link https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+
+3. Push local changes to remote repo
+```bash
+git add .
+git commit -m "some comment"
+git push
+```
+
 ## 💻 Lesson Layout
 
 <h4> 1. Participate during learning section </h4>
