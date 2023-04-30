@@ -14,17 +14,17 @@ Haye-Aduunka student projects collected and presented for all to admire 😊
 1. Clone the repository
 
 ```bash
-git clone https://github.com/ibrahim681/Haye-Aduunka.git
+git clone https://github.com/ibrahim681/Haye-Aduunka-website.git
 ```
 
 2. Change the working directory
 
 ```bash
-cd Haye-Aduunka
+cd Haye-Aduunka-website/haye-aduunka
 ```
 
 3. Create a feature branch
-NOTE: pushing to main directly, will result in the project deplying to server
+<h4>NOTE: pushing to main directly, will result in the project deplying to server</h4>
 
 ```bash
 git checkout -b new-feature
