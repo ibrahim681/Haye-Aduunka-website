@@ -46,7 +46,7 @@ export default function Home() {
 
       <div className="mb-32 grid center-center lg:mb-0 lg lg:center-left">
         <h2 className={`mb-3 text-2xl font-semibold`}>
-          Stay tuned for exiting developments{' '}
+          Stay tuned for exciting developments{' '}
         </h2>
       </div>
     </main>
